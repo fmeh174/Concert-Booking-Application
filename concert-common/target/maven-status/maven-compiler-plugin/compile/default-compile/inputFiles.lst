@@ -1,0 +1,13 @@
+/Users/faiza/IdeaProjects/project-projectteam-gfl/concert-common/src/main/java/proj/concert/common/dto/BookingRequestDTO.java
+/Users/faiza/IdeaProjects/project-projectteam-gfl/concert-common/src/main/java/proj/concert/common/dto/ConcertInfoSubscriptionDTO.java
+/Users/faiza/IdeaProjects/project-projectteam-gfl/concert-common/src/main/java/proj/concert/common/dto/ConcertInfoNotificationDTO.java
+/Users/faiza/IdeaProjects/project-projectteam-gfl/concert-common/src/main/java/proj/concert/common/jackson/LocalDateTimeDeserializer.java
+/Users/faiza/IdeaProjects/project-projectteam-gfl/concert-common/src/main/java/proj/concert/common/dto/ConcertDTO.java
+/Users/faiza/IdeaProjects/project-projectteam-gfl/concert-common/src/main/java/proj/concert/common/dto/BookingDTO.java
+/Users/faiza/IdeaProjects/project-projectteam-gfl/concert-common/src/main/java/proj/concert/common/dto/PerformerDTO.java
+/Users/faiza/IdeaProjects/project-projectteam-gfl/concert-common/src/main/java/proj/concert/common/dto/UserDTO.java
+/Users/faiza/IdeaProjects/project-projectteam-gfl/concert-common/src/main/java/proj/concert/common/types/Genre.java
+/Users/faiza/IdeaProjects/project-projectteam-gfl/concert-common/src/main/java/proj/concert/common/dto/SeatDTO.java
+/Users/faiza/IdeaProjects/project-projectteam-gfl/concert-common/src/main/java/proj/concert/common/dto/ConcertSummaryDTO.java
+/Users/faiza/IdeaProjects/project-projectteam-gfl/concert-common/src/main/java/proj/concert/common/types/BookingStatus.java
+/Users/faiza/IdeaProjects/project-projectteam-gfl/concert-common/src/main/java/proj/concert/common/jackson/LocalDateTimeSerializer.java

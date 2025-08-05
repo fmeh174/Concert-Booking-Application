@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: proj.concert.service.ConcertResourceIT
+-------------------------------------------------------------------------------
+Tests run: 29, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 31.828 s - in proj.concert.service.ConcertResourceIT
